@@ -23,3 +23,4 @@ http://127.0.0.1:8000/admin
 unyolo
 unyolo@gmail.com
 malawi731
+http://127.0.0.1:8000/home
