@@ -12,3 +12,9 @@ cd C:\Users\ANTHONY\UNYOLO\Desktop\main_project\networking-xtp-main\core python 
 
 kunako ikapanga run go to
 http://127.0.0.1:8000 ku browser
+
+
+credentials 
+
+adminunyolo@gmail.com
+admin731
